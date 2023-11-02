@@ -1,0 +1,16 @@
+E:\Andrey\Господипомилуй\IDE2.0\IDE2.0\bin\Debug\IDE2.0.exe.config
+E:\Andrey\Господипомилуй\IDE2.0\IDE2.0\bin\Debug\IDE2.0.exe
+E:\Andrey\Господипомилуй\IDE2.0\IDE2.0\bin\Debug\IDE2.0.pdb
+E:\Andrey\Господипомилуй\IDE2.0\IDE2.0\obj\Debug\IDE2.0.csproj.AssemblyReference.cache
+E:\Andrey\Господипомилуй\IDE2.0\IDE2.0\obj\Debug\IDE2.0.csproj.SuggestedBindingRedirects.cache
+E:\Andrey\Господипомилуй\IDE2.0\IDE2.0\obj\Debug\MainWindow.g.cs
+E:\Andrey\Господипомилуй\IDE2.0\IDE2.0\obj\Debug\App.g.cs
+E:\Andrey\Господипомилуй\IDE2.0\IDE2.0\obj\Debug\IDE2.0_MarkupCompile.cache
+E:\Andrey\Господипомилуй\IDE2.0\IDE2.0\obj\Debug\IDE2.0_MarkupCompile.lref
+E:\Andrey\Господипомилуй\IDE2.0\IDE2.0\obj\Debug\MainWindow.baml
+E:\Andrey\Господипомилуй\IDE2.0\IDE2.0\obj\Debug\IDE2.0.g.resources
+E:\Andrey\Господипомилуй\IDE2.0\IDE2.0\obj\Debug\IDE2._0.Properties.Resources.resources
+E:\Andrey\Господипомилуй\IDE2.0\IDE2.0\obj\Debug\IDE2.0.csproj.GenerateResource.cache
+E:\Andrey\Господипомилуй\IDE2.0\IDE2.0\obj\Debug\IDE2.0.csproj.CoreCompileInputs.cache
+E:\Andrey\Господипомилуй\IDE2.0\IDE2.0\obj\Debug\IDE2.0.exe
+E:\Andrey\Господипомилуй\IDE2.0\IDE2.0\obj\Debug\IDE2.0.pdb

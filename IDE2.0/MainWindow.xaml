@@ -1,0 +1,17 @@
+﻿<Window x:Class="IDE2._0.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IDE2._0"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Cursor="Arrow">
+        <Label Content = "Black Dead" HorizontalAlignment="Center" Height="103" VerticalAlignment="Top" Width="442" Margin="0,34,0,0" FontFamily="Algerian" FontSize="72"/>
+        <Button Content="Существующий сеанс сатанизма" HorizontalAlignment="Center" Margin="0,182,0,0" VerticalAlignment="Top" Height="35" Width="330" FontFamily="SimSun" Click="Button_Click"/>
+        <Button Content="Новый сеанс сатанизма" HorizontalAlignment="Center" Margin="0,235,0,0" VerticalAlignment="Top" Height="35" Width="330" FontFamily="SimSun"/>
+        <Button Content="Вызвать экзорциста" HorizontalAlignment="Center" Margin="0,306,0,0" VerticalAlignment="Top" Height="35" Width="330" FontFamily="SimSun"/>
+        <Button Content="СВЕТ" HorizontalAlignment="Left" Height="25" Margin="692,22,0,0" VerticalAlignment="Top" Width="83" FontFamily="SimSun"/>
+
+    </Grid>
+</Window>
